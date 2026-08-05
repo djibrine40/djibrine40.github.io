@@ -1,0 +1,113 @@
+# Portfolio Website — Assignment Deliverables
+
+## Student Information
+- **Name:** Djibrine Mahamat Idrissa
+- **Student ID:** [Your Student ID]
+- **Course:** Computer Science & Engineering
+- **Institution:** Islamic University of Technology (IUT), Dhaka, Bangladesh
+- **Semester:** 4th Semester (2nd Year)
+- **Year:** 2026
+
+---
+
+## 1. GitHub Repository
+- **URL:** https://github.com/djibrine40/djibrine40.github.io
+- **Visibility:** Public
+- **Repository Name:** `djibrine40.github.io`
+- **Default Branch:** `main`
+
+---
+
+## 2. Live Portfolio URL
+- **Domain:** https://djibrine40.github.io
+- **Hosting Platform:** GitHub Pages
+- **Deployment Method:** Static HTML/CSS/JS deployed from `main` branch root
+
+---
+
+## 3. AI Tools Used
+
+| Tool | Purpose | Prompt History Summary |
+|------|---------|----------------------|
+| **DeepSeek** (via deepseek.ai) | Portfolio design, HTML/CSS/JS generation, iterative aesthetic refinement, deliverables documentation, deployment troubleshooting | **Iteration 1:** Initial portfolio request with bilingual background (EN/FR), Chinese optional language, IUT Dhaka education, C/C++/Java skills, OOP and database experience, game development focus, hobbies (workout, podcasts, novels, animated series). **Iteration 2:** Added phone number (+880 1632789724), email (djibrine40@iut-dhaka.edu), requested GitHub and Facebook link integration. **Iteration 3:** Requested more playful design with extraordinary effects — received neon dark theme with sparkle cursor trail and particle system. **Iteration 4:** Full assignment-compliant version with all requirements: identity, contact info, projects, academic achievements, extensible design. **Iteration 5:** Heroic fantasy-inspired aesthetic — dark theme with ember particles, aegis orb, fantasy terminology (Quests, Forge, Relics, Ravens). **Iteration 6:** Switched from dark theme to illuminated manuscript/parchment aesthetic, removed DMI navigation sigil, added warm parchment textures and floating light motes, year changed to 2026. **Iteration 7:** Requested deliverables file with deployment instructions. **Iteration 8:** Fixed 404 error — changed repository name from `djibrine.portfolio.io` to `djibrine40.github.io` (GitHub Pages user site naming convention). |
+
+---
+
+## 4. Requirements Checklist
+
+| Requirement | Status | Location in Portfolio |
+|-------------|--------|----------------------|
+| Full identity displayed | ✅ | Hero section: "Djibrine Mahamat Idrissa" with Cameroonian origin and IUT Dhaka details |
+| Personal information | ✅ | Hero chronicle paragraph, education timeline |
+| Contact: Email | ✅ | `djibrine40@iut-dhaka.edu` — "Dispatch a Raven" section |
+| Contact: GitHub | ✅ | `github.com/djibrine40` — "Dispatch a Raven" section |
+| Contact: LinkedIn | ✅ | LinkedIn card in "Dispatch a Raven" section (placeholder URL — update with actual profile) |
+| Contact: Facebook | ✅ | `facebook.com/share/1BCNcrDKRX/` — "Dispatch a Raven" section |
+| Contact: Phone | ✅ | `+880 1632 789724` — "Dispatch a Raven" section |
+| Previous/ongoing projects highlighted | ✅ | 4 projects in "Chronicles of Code" section: Student Registry (Java), Library Vault (C++), Stockpile Ledger (C), Shifting Realms (Unity/C# — in progress with animated badge) |
+| Academic achievements | ✅ | Full timeline in "Saga of Learning": O-Level (bilingual EN/FR + Chinese), A-Level (IT), current B.Sc. at IUT (4th semester, 2024–present) |
+| Creative theme tailored to interests | ✅ | Heroic fantasy indie game aesthetic: parchment textures, illuminated manuscript feel, floating light motes, fantasy terminology throughout, warm gold/purple palette |
+| Extensible design for future projects | ✅ | CSS Grid layouts (`.quest-grid`, `.chronicle-line`, `.forge-grid`, `.relic-grid`, `.raven-grid`) accept new cards/entries without breaking layout; documented in extensibility guide below |
+| No visible HTML comments | ✅ | All comments removed from final `index.html` |
+| Year 2026 displayed | ✅ | Footer: `© 2026 Djibrine Mahamat Idrissa` |
+| Deliverables file separate | ✅ | This file: `deliverables.md` |
+
+---
+
+## 5. Design Theme & Creative Rationale
+
+The portfolio draws inspiration from heroic fantasy indie games and illuminated medieval manuscripts. The design language avoids dark themes in favor of a warm, inviting aesthetic that evokes ancient libraries, treasured codexes, and epic storytelling.
+
+### Color Palette
+| Color | Hex | Usage |
+|-------|-----|-------|
+| Parchment Background | `#fdf6e3` | Main page background |
+| Aged Surface | `#f5ecd7` | Card and section backgrounds |
+| Burnished Gold | `#b8860b` | Primary accent — headings, borders, glow effects |
+| Regal Purple | `#6a4c93` | Secondary accent — section labels, skill categories |
+| Frost Blue | `#3a7ca5` | Tertiary accent — timeline dates, progress badges |
+| Dark Ink | `#3e2f1c` | Body text |
+
+### Typography System
+| Font | Role | Rationale |
+|------|------|-----------|
+| **Cinzel** | Display headings | Evokes carved stone inscriptions and ancient title pages |
+| **Crimson Text** | Body text | Classic serif reminiscent of printed manuscripts |
+| **JetBrains Mono** | Technical labels, dates, code references | Modern monospace contrast for technical details |
+
+### Thematic Terminology
+| Standard Term | Fantasy Equivalent | Purpose |
+|---------------|-------------------|---------|
+| Projects | Chronicles of Code / Quests | Frames work as epic accomplishments |
+| Skills | The Forge | Suggests craftsmanship and mastery |
+| Interests | Sanctuary of Spirit | Personal passions as sacred space |
+| Contact | Dispatch a Raven | Medieval messenger imagery |
+| Education | Saga of Learning | Lifelong journey narrative |
+| In Progress | Quest In Progress | Active adventure |
+
+### Animations & Effects
+- **Floating Motes:** 75 particles drift upward across the page with golden, purple, and blue hues, connected by faint ley lines when near each other — creating a living, breathing atmosphere
+- **Hero Aegis Orb:** A pulsing, floating circle with nested rotating rings surrounding the avatar emoji, with shifting golden and purple glows
+- **Scroll Reveal:** Project cards fade and slide up with staggered delays on page load
+- **Hover States:** Cards lift with golden border glow, timeline entries slide right, skill pills bounce upward with shadow
+- **Breathing Badge:** The "Quest In Progress" indicator pulses gently to draw attention
+- **Timeline Nodes:** Gold dots pulse rhythmically along the education timeline
+- **Parchment Texture:** Subtle repeating horizontal lines across the background simulate handmade paper
+- **Ambient Glow:** Radial gradients shift opacity across the page background
+
+---
+
+## 6. Future Extensibility Guide
+
+### Adding a New Project
+```html
+<div class="quest-scroll">
+    <p class="rune-mark">QUEST V · COMPLETED</p>
+    <h3>Your Project Name</h3>
+    <p>Project description goes here. Describe what you built and what technologies you used.</p>
+    <div class="sigils">
+        <span class="sigil">Technology1</span>
+        <span class="sigil">Technology2</span>
+        <span class="sigil">Technology3</span>
+    </div>
+</div>

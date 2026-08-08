@@ -32,7 +32,43 @@
 | **DeepSeek** (via deepseek.ai) | Portfolio design, HTML/CSS/JS generation, iterative aesthetic refinement, deliverables documentation, deployment troubleshooting | **Iteration 1:** Initial portfolio request with bilingual background (EN/FR), Chinese optional language, IUT Dhaka education, C/C++/Java skills, OOP and database experience, game development focus, hobbies (workout, podcasts, novels, animated series). **Iteration 2:** Added phone number (+880 1632789724), email (djibrine40@iut-dhaka.edu), requested GitHub and Facebook link integration. **Iteration 3:** Requested more playful design with extraordinary effects — received neon dark theme with sparkle cursor trail and particle system. **Iteration 4:** Full assignment-compliant version with all requirements: identity, contact info, projects, academic achievements, extensible design. **Iteration 5:** Heroic fantasy-inspired aesthetic — dark theme with ember particles, aegis orb, fantasy terminology (Quests, Forge, Relics, Ravens). **Iteration 6:** Switched from dark theme to illuminated manuscript/parchment aesthetic, removed DMI navigation sigil, added warm parchment textures and floating light motes, year changed to 2026. **Iteration 7:** Requested deliverables file with deployment instructions. **Iteration 8:** Fixed 404 error — changed repository name from `djibrine.portfolio.io` to `djibrine40.github.io` (GitHub Pages user site naming convention). |
 
 ---
+AI Tool Used: DeepSeek (via deepseek.ai)
 
+Prompt History:
+
+1. I'm Djibrine Mahamat Idrissa, I had a bilingual (english and french) O-level equivalent with chinese as optional language and an advanced level equivalent with information technology as a speciality, I'm from cameroon but currently, I am studying in a well know university in Dhaka Bangladesh, an OIC subsidiary organ the Islamic University of Technology doing my second in the Computer science and engineering department and pursuing a 4- year bachelor of science. I can code in c, c++ and java, I can work object oriented programming and database related projects and currently, I'm trying to master game development. In my free time, I like to workout, listen to podcast, reading novels and watching animated series. Generate me a portfolio website using html and css and make beautiful, unique, well organized and exceptional as it should stand out in a positive fashion against the concurrence.
+
+2. my phone number is +880 1632789724, my e-mail is djibrine40@iut-dhaka.edu and how can you add a link to mygit hub and facebook accounts?
+
+3. https://www.facebook.com/share/1BCNcrDKRX/ and my github username is djibrine40 can you make it with more playful and with extraordinary effects?
+
+4. This assignment tasks you to create your own portfolio website. Deliverables: GitHub repository for the portfolio website (with privacy set to public) Domain link of website portfolio is hosted on If you used any AI tools, the names of the tools and the history of the sent prompts Requirements Clearly mention your your identity, information about you, and your contact information (Email, GitHub profile, LinkedIn profile at the bare minimum) Include and highlight your previous/ongoing projects, academic achievements and research (if any) Exercise creativity to tailor the theme, design and elements to suit your interests and preference Feel free to include anything else you feel like (e.g. your artwork, photography, writing, music, community involvement etc. - anything that helps define you.) Suggestions: It is recommended that you use GitHub Pages to host your portfolio website. Make sure your website clearly and concisely represents your interests but also comprehensively covers all your works and projects. Make your portfolio extensible, you are currently in your fourth semester, you will be doing a lot more in the next two years.
+
+5. bro more awesome think harder more original but doesn't mean too much colors
+
+6. I'm a big heroic fantasy indie game fan, think about in the design but do not mention it, also put 2026 and no comments should be visible on the site and put all the deliverables on a separate file and the name is djibrine.portfolio.io
+
+7. no, a full heroic fantasy indie design with cool animations
+
+8. what, it is the same dark stuff and remove that DMI on the top left
+
+9. cool now the deilvarables and the github steps
+
+10. i got error 404
+
+11. now about the dilvarables
+
+12. 404 File not found. The site configured at this address does not contain the requested file. If this is your site, make sure that the filename case matches the URL as well as any file permissions. For root URLs (like http://example.com/) you must provide an index.html file. GitHub Status — @githubstatus
+
+13. Okay well done, what should I submit to the classroom?
+
+14. would it be better to divide the files js, css and html files respectively
+
+15. If you used any AI tools, the names of the tools and the history of the sent prompts
+
+16. Deliverables: GitHub repository for the portfolio website (with privacy set to public) Domain link of website portfolio is hosted on If you used any AI tools, the names of the tools and the history of the sent prompts
+
+17. send me all the prompts in one block so i can paste them to my deliverables files
 ## 4. Requirements Checklist
 
 | Requirement | Status | Location in Portfolio |
